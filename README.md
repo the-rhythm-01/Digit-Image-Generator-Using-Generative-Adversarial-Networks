@@ -10,5 +10,5 @@ the output of the generator. The generator tries to fool the discriminator, and 
 ## IMAGES GENERATED DURING INTERMEDIATE ITERATIONS
 ![alt.text](assets/Intermediate.jpg)
 
-##mOST OPTIMAL IMAGES GENERATED
+## MOST OPTIMAL IMAGES GENERATED
 ![alt.text](assets/Optimal.jpg)
